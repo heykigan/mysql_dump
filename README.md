@@ -10,9 +10,9 @@ Please change the values of host,user,password,database,tables in app.js as
 
 ```
 host: 'localhost',
-user: 'root',
-password: 'root',
-database: 'kktest',
+user: 'username',
+password: 'password',
+database: 'database',
 tables: ['tab1e1', 'table2', 'table3']
 
 ```
