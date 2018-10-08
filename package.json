@@ -1,0 +1,18 @@
+{
+  "name": "backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extend": "^3.0.2",
+    "fs": "0.0.1-security",
+    "mysql": "^2.16.0",
+    "node-mysql-dump": "^1.0.0"
+  }
+}
